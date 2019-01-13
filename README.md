@@ -1,4 +1,4 @@
-# Instagram clone
+# Management App
 
 ## Ruby version
 * ruby version 2.5.1
